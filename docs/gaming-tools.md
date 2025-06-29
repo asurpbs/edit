@@ -10,12 +10,13 @@
 * ↪️ **[Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
 * ↪️ **[Game Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_game_soundtracks)**
 * ⭐ **[PCGamingWiki](https://www.pcgamingwiki.com/)** - Game Fixes & Workarounds / [Discord](https://discord.gg/KDfrTZ8)
-* ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)**, [Apollo](https://github.com/ClassicOldSong/Apollo) or [Moonlight](https://moonlight-stream.org/) - Gaming Remote Desktop Client / [Mobile](https://github.com/ClassicOldSong/moonlight-android)
 * ⭐ **[Library of Codexes](https://libraryofcodexes.com/)** - Game Codex Library
 * ⭐ **[HowLongToBeat](https://howlongtobeat.com/)**, [2](https://hl2b.com/) - Find Average Game Lengths
 * ⭐ **[/r/tipofmyjoystick](https://www.reddit.com/r/tipofmyjoystick/)** - Find Games via Screenshot or Description
 * ⭐ **[Game Pauser](https://madebyjase.com/game-pauser/)** - Pause Unpausable Cutscenes
 * ⭐ **[Valve Archive](https://valvearchive.com/)** - Rare Valve Data Archive
+* ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)** or [Apollo](https://github.com/ClassicOldSong/Apollo) - Gaming Remote Desktop Client / [Mobile](https://github.com/ClassicOldSong/moonlight-android) / [Discord](https://discord.com/invite/d6MpcrbYQs) / [GitHub](https://github.com/LizardByte/Sunshine)
+* [Moonlight](https://moonlight-stream.org/) - Gaming Remote Desktop Client / [Discord](https://discord.com/invite/CGg5JxN) / [GitHub](https://github.com/moonlight-stream)
 * [VGHF Digital Archive](https://library.gamehistory.org/) - Historical Documents, Magazines, Transcripts, etc. / [Archive](http://archive.gamehistory.org/)
 * [NIWA](https://www.niwanetwork.org/) - Nintendo Independent Wiki Alliance / [Discord](https://discord.gg/59Mq6qB)
 * [Gog To Free](https://greasyfork.org/en/scripts/481134) - Add Piracy Site Links to GOG Store
@@ -621,7 +622,7 @@
 
 * 🌐 **[ChunkBase](https://www.chunkbase.com/apps/)** - Minecraft Map Tools
 * [Amulet](https://www.amuletmc.com/), [Minecraft Datapack Map](https://map.jacobsjo.eu/) / [GitHub](https://github.com/jacobsjo/mc-datapack-map), [MCA Selector](https://github.com/Querz/mcaselector), [uNmINeD](https://unmined.net/) or [WorldPainter](https://www.worldpainter.net/) - Minecraft Map Editors / Viewers
-* [MineAtlas](http://mineatlas.com/), [Cubiomes Viewer](https://github.com/cubitect/cubiomes-viewer) or [MCSeeder](https://mcseeder.com/) - Minecraft Seeds
+* [MineAtlas](http://mineatlas.com/) or [Cubiomes Viewer](https://github.com/cubitect/cubiomes-viewer) - Minecraft Seeds
 * [MinecraftMaps](https://www.minecraftmaps.com/) or [Mapcraft](https://mapcraft.me/) - Minecraft Maps
 * [Minecraft Earth Map](https://earth.motfe.net/) - Earth Maps
 * [CTMRepository](https://ctmrepository.com/) - Complete the Monument Maps / [Discord](https://discord.com/invite/G2WVCB3)
@@ -704,7 +705,7 @@
 * [Ready or Not Doc](https://docs.google.com/spreadsheets/d/1d89lpFDA9lo_v13iBlnhtuA6DvuUnKfPaeo0d4RBGJ4/) - Ready or Not Info
 * [FM Moneyball](https://www.fmdatalab.com/tutorials/moneyball) - Football Manager Recruitment Tool / [Tutorial](https://youtu.be/vBoHCH-rZMI)
 * [WRCsetups](https://wrcsetups.com/) - WRC Setups
-* [Peacock](https://github.com/thepeacockproject/Peacock) - Hitman World of Assassination Server Replacement
+* [Peacock](https://thepeacockproject.org/) - Hitman World of Assassination Server Replacement / [GitHub](https://github.com/thepeacockproject/Peacock)
 * [Useful Osu](https://github.com/CarbonUwU/Useful-osu) - Osu! Resources
 * [Collection Manager](https://github.com/Piotrekol/CollectionManager) - Osu! Collection Manager
 * [osu trainer](https://github.com/FunOrange/osu-trainer) - Osu! Trainer
@@ -732,20 +733,6 @@
 * [RuneForge](https://runeforge.dev/) - Custom LoL Skins / [Discord](https://discord.com/invite/runeforge)
 * [Deceive](https://github.com/molenzwiebel/deceive) - Appear Offline in LoL
 * [Disenchanter](https://github.com/marvinscham/disenchanter) - LoL Mass Disenchanter
-
-***
-
-## ▷ ARPG / MMORPG Tools
-
-* 🌐 **[Grim Tools](https://www.grimtools.com/)** - Grim Dawn Tools
-* 🌐 **[Last Epoch Tools](https://www.lastepochtools.com/)** - Last Epoch Tools
-* ⭐ **[Maxroll](https://maxroll.gg/)** - ARPG Build Guides
-* [D4Builds](https://d4builds.gg/) - Diablo IV Build Guides
-* [Helltides](https://helltides.com/) - Diablo IV Pit Leaderboards / Helltide Tracker
-* [Path of Building](https://pathofbuilding.community/) - Path of Exile Build Planner
-* [Murlok](https://murlok.io/) - WoW PvP / PvE Guides / [Discord](https://discord.gg/daFKqeZxfD)
-* [WoWProgress](https://www.wowprogress.com) or [CheckPVP](https://www.check-pvp.fr/) - WoW Rankings
-* [RaidPlan](https://raidplan.io/) - WoW Raid Planner / [Discord](https://discord.com/invite/mTuHsfb)
 
 ***
 
@@ -783,7 +770,7 @@
 
 * ⭐ **[CsWarzOnE](https://cswarzone.com/)** - Counter-Strike Downloads
 * ⭐ **[HLTV](https://www.hltv.org/)** or [Dust2](https://www.dust2.us/) - Counter-Strike News
-* ⭐ **[CS Demo Manager](https://cs-demo-manager.com/)** - Counter-Strike Demo manager
+* ⭐ **[CS Demo Manager](https://cs-demo-manager.com/)** - Counter-Strike Demo Manager
 * ⭐ **[Faceit](https://www.faceit.com/)** - Matchmaking Client
 * ⭐ **[CSNADES](https://csnades.gg/)** or [CS2Util](https://www.cs2util.com/) - CS2 Nade Lineups
 * [CSGO Trader](https://csgotrader.app/) - CS:GO Trading Enhancements
@@ -928,25 +915,43 @@
 
 ## ▷ Tabletop Tools
 
-* 🌐 **[Awesome TTRPG](https://github.com/Zireael07/awesome-tabletop-rpgs)** - Online TTRPGs / Resources
-* 🌐 **[5ETools](https://5e.tools/)**, [Roll for Fantasy](https://rollforfantasy.com/), [Kassoon](https://www.kassoon.com/dnd/) or [DragonsFoot](https://www.dragonsfoot.org/) - TTRPG Tools
-* ⭐ **[dice.run](https://dice.run/)**, [Random Dice](http://www.dicesimulator.com/) or [Desktop Dice](https://girkovarpa.itch.io/desktopdice) - Dice Simulators
-* ⭐ **[Kanka](https://kanka.io/)** - Tabletop RPG Manager
-* [RPG.net](https://forum.rpg.net/) - RPG Forums
-* [Adventurer's Codex](https://adventurerscodex.com) - Online D&D 5e Campaign Manager / System
-* [NaturalCrit](https://www.naturalcrit.com/) - Create D&D Homebrews / Badges
-* [DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books/) - D&D 4e/5e Books
-* [FantasiaArchive](https://fantasiaarchive.com/) - World Building / Documenting Tool
-* [DnD World Building](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html) - Fantasy World Building Guides
-* [The Acaeum](https://www.acaeum.com/) - Dungeons & Dragons Database
-* [DnD Rules](https://www.dndbeyond.com/sources/dnd/free-rules) - Dungeons & Dragons Rules
+* 🌐 **[Awesome TTRPGs](https://github.com/Zireael07/awesome-tabletop-rpgs)** - Online TTRPGs & Resources
+* ⭐ **[dice.run](https://dice.run/)**, [DiceSimulator.com](http://www.dicesimulator.com/) or [Desktop Dice](https://girkovarpa.itch.io/desktopdice) - Dice Simulators
+* [Scorecard.gg](https://scorecard.gg/) - Create Scorecards for Game Matches
+* [RPGBOT](https://rpgbot.net/), [Wargamer](https://www.wargamer.com/), [Roll for Fantasy](https://rollforfantasy.com/), [Kassoon](https://www.kassoon.com/) or [DragonsFoot](https://www.dragonsfoot.org/) - RPG / TTRPG Tools & Learning Resources
+* [Tabletopy](https://tabletopy.com/) or [Tabletop Audio](https://tabletopaudio.com/) - Immersive SFX / Music for TTRPGs
+* [RPGnet](https://forum.rpg.net/) - RPG Forum
 * [Archives of Nethys](https://aonprd.com/) - Pathfinder Database
-* [WarGamer](https://www.wargamer.com/) - Tabletop RPG Guides
-* [Roll20](https://roll20.net/) or [Rolisteam](https://rolisteam.org/) - Tabletop RPG Streaming
-* [Tabletopy](https://tabletopy.com/) - Tabletop RPG Soundboard
-* [Eigengrau's Generator](https://eigengrausgenerator.com/) - Town / NPC Generator
-* [Map Generator](https://emptybuttons.itch.io/map-generator) - Tabletop Roleplaying Map Generator
-* [Forge](https://card-forge.github.io/forge/) - Magic: The Gathering Rule / Deck Manager / [GitHub](https://github.com/Card-Forge/forge)
+* [Forge](https://card-forge.github.io/forge/) - Magic: The Gathering Rules Engine & Deck Manager / [GitHub](https://github.com/Card-Forge/forge)
 * [MOGG](http://img.mogg.fr/HIRES/) - Magic: The Gathering Card Scans
 * [Yugipedia](https://yugipedia.com/) or [YGOPRODeck](https://ygoprodeck.com/) - Yu-Gi-Oh! Resources / Card Lists
-* [Untap.in](https://untap.in/) - Test Card Game Decks
+* [Untap.in](https://untap.in/) - Test Card Game Decks / Account Required
+
+***
+
+## ▷ RPG Worldbuilding
+
+* ⭐ **[Kanka](https://kanka.io/)**, [World Anvil](https://www.worldanvil.com/), [RPTools](https://www.rptools.net/), [Scabard](https://www.scabard.com/), [Adventurer's Codex](https://adventurerscodex.com) or [Fantasia Archive](https://fantasiaarchive.com/) - RPG Campaign Managers / Worldbuilding Suites
+* ⭐ **[Chaotic Shiny](http://chaoticshiny.com/)**, [Seventh Sanctum](https://www.seventhsanctum.com/), [Notebook.ai](https://www.notebook.ai/), [Fantasy Name Generators](https://www.fantasynamegenerators.com/) or [Eigengrau's Generator](https://eigengrausgenerator.com/) - RPG / Fantasy Storywriting Tools
+* ⭐ **[donjon](https://donjon.bin.sh/)** or [Azgaar](https://azgaar.github.io/Fantasy-Map-Generator/) - Procedural RPG / Fantasy Map Generators
+* [watabou](https://watabou.itch.io/) - Generators for Fantasy Worlds, Dungeons, and More
+* [Inkwell Ideas](https://inkwellideas.com/) - RPG Software & Accessories
+* [Map Generator](https://emptybuttons.itch.io/map-generator) or [RPG Map II](https://deepnight.itch.io/tabletop-rpg-map-editor) - TTRPG Map Editors / Windows
+* [DungeonFog](https://www.dungeonfog.com/) - Advanced TTRPG Map Editor / Account Required
+* [Inkarnate](https://inkarnate.com/) - Fantasy Map Editor / Account Required
+* [Dungeon Scrawl](https://www.dungeonscrawl.com/) - Dungeon Mapmaking Editor / [Subreddit](https://www.reddit.com/r/dungeonscrawl/) / [Discord](https://discord.com/invite/RxyZyXg) / [GitHub](https://probabletrain.itch.io/dungeon-scrawl)
+* [Dungeon Map Doodler](https://dungeonmapdoodler.com/) - Dungeon & Terrain Map Editor
+
+***
+
+## ▷ ARPG / MMORPG Tools
+
+* 🌐 **[Grim Tools](https://www.grimtools.com/)** - Grim Dawn Tools
+* 🌐 **[Last Epoch Tools](https://www.lastepochtools.com/)** - Last Epoch Tools
+* ⭐ **[Maxroll](https://maxroll.gg/)** - ARPG Build Guides
+* [D4Builds](https://d4builds.gg/) - Diablo IV Build Guides
+* [Helltides](https://helltides.com/) - Diablo IV Pit Leaderboards / Helltide Tracker
+* [Path of Building](https://pathofbuilding.community/) - Path of Exile Build Planner
+* [Murlok](https://murlok.io/) - WoW PvP / PvE Guides / [Discord](https://discord.gg/daFKqeZxfD)
+* [WoWProgress](https://www.wowprogress.com) or [CheckPVP](https://www.check-pvp.fr/) - WoW Rankings
+* [RaidPlan](https://raidplan.io/) - WoW Raid Planner / [Discord](https://discord.com/invite/mTuHsfb)

@@ -162,7 +162,6 @@
 * ⭐ **[/coffee/](https://rentry.co/coffeeguide)** or [Coffee Time General](https://pastebin.com/UEzwuyLz) - Coffee Brewing Masterlists / Guides
 * ⭐ **[/tea/](https://rentry.co/teageneral)** - Tea Brewing Masterlist / Guide
 * ⭐ **[Drinking Game Zone](https://drinkinggamezone.com/)** - Drinking Games Encyclopedia
-* [Coffee or Bust!](https://www.coffeeorbust.com/) - Coffee-Making Guides
 * [Beanconqueror](https://beanconqueror.com/) - Coffee Tracking App / [GitHub](https://github.com/graphefruit/Beanconqueror)
 * [Cofi](https://github.com/rozPierog/Cofi) - Coffee Brew Timer / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#cofi-note)
 * [Notbadcoffee](https://notbadcoffee.com/flavor-wheel-en/) - Interactive Coffee Flavor Wheel
@@ -535,18 +534,17 @@
 
 * 🌐 **[Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health)** or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Resources
 * ↪️ **[Relaxation / Ambient](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_ambient_.2F_relaxation)**
-* [Health Assessment Tools](https://www.nhs.uk/health-assessment-tools/) - General Health Tools
+* [Health Assessment Tools](https://www.nhs.uk/mental-health/) - General Health Tools
+* [/mental health/](https://rentry.co/mentalhealthy) - Mental Help Tips
 * [How We Feel](https://play.google.com/store/apps/details?id=org.howwefeel.moodmeter&hl=en-US) / [iOS](https://apps.apple.com/app/id1562706384), [Nomie](https://v5.nomie.app/), [Koduko](https://github.com/Mazahir26/koduko) or [Respawn](https://respawn.pro/) - Wellbeing Apps / Journals
 * [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html), [2](https://youfeellikeshit.com/) - Interactive Self-Care Guide
 * [deskspace](https://npckc.itch.io/deskspace) - Self-Care App
 * [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - Mindfulness / Stress Reduction App
-* [/mental health/](https://rentry.co/mentalhealthy) - Mental Help Tips
 * [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - Mental Health Coping Skills
 * [Zen Habits](https://zenhabits.net/) - Develop Zen Habits
 * [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
 * [Meditation Infographic](https://i.ibb.co/BNWDCbS/2552-IIB-Meditation.png) - Meditation Techniques
 * [Conversations](https://conversations.movember.com/en/conversations/) - Mental Health Conversation Practice
-* [Balance](https://balance.dvy.io/) - Challenge Anxious Thoughts with AI
 * [Plees Tracker](https://vmiklos.hu/plees-tracker/) - Sleep Tracker
 * [TripSit](https://tripsit.me/) / [Discord](https://discord.gg/tripsit), [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
 
@@ -619,8 +617,8 @@
 * [The Nutrition Source](https://nutritionsource.hsph.harvard.edu/) - Harvard University Health Website
 * [Liquid Drink](https://play.google.com/store/apps/details?id=com.xpp.drink) - Liquid Intake Tracker
 * [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - Daily Diet Recommendations / Android
-* [Calories-In](https://calories-in.com/) - Meal Prep & Planning / Web
 * [Eat This Much](https://www.eatthismuch.com/), [Mealime](https://www.mealime.com/) or [MealPrepPro](https://mealpreppro.com/) / [Android](https://play.google.com/store/apps/details?id=com.nibbleapps.meal_prep_pro) - Meal Prep & Planning Apps / Android, iOS
+* [Calories-In](https://calories-in.com/) - Meal Prep & Planning / Web
 * [Nosh](https://nosh.tech/) - Food Management App
 * [Edamam](https://www.edamam.com/) - Food-Related APIs
 * [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course
@@ -890,7 +888,7 @@
 * [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
 * [TradingView Webhook Bot](https://github.com/fabston/TradingView-Webhook-Bot) / [Index](https://github.com/pAulseperformance/awesome-pinescript) - Send TradingView Alerts to Various Apps
 * [tickrs](https://github.com/tarkah/tickrs) - Ticker Data in Terminal
-* [ETFDB](https://etfdb.com/) - ETF Research / Analysis Platform
+* [⁠BestETF](https://www.bestetf.net/) or [ETFDB](https://etfdb.com/) - ETF Databases
 * [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) - DeFi Derivative Guide
 * [Kitco](https://www.kitco.com/) - Gold Rate Calculators
 * [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
@@ -1222,7 +1220,7 @@
 * [Sudomemo](https://www.sudomemo.net/) or [Kaeru Gallery](https://gallery.kaeru.world/) - DS Flipnote Studio Galleries
 * [Toonami Remastered](https://www.toonamiremastered.com/) - Remastered Toonami Content
 * [ThisXDoesNotExist](https://thisxdoesnotexist.com/) - Realistic-Looking Fake Versions of Things
-* [ThisPersonNotExist](https://thispersonnotexist.org/), [Who the Fook is That Guy](https://whothefookisthatguy.com/) or [this-person-does-not-exist](https://this-person-does-not-exist.com/) - People That Don't Exist
+* [ThisPersonNotExist](https://thispersonnotexist.org/), [ThisPersonDoesNotExist](https://www.thispersondoesnotexist.com/), [Who the Fook is That Guy](https://whothefookisthatguy.com/) or [this-person-does-not-exist](https://this-person-does-not-exist.com/) - People That Don't Exist
 * [The Slideshow](https://theslideshow.net/) - Google Image Slideshow
 * [Different Strokes](https://scottts.itch.io/different-strokes) - Online User-Made Art Gallery
 * [Creative Uncut](https://www.creativeuncut.com/) - Video Game Art
@@ -1446,7 +1444,6 @@
 * [Toys from Trash](https://www.arvindguptatoys.com/toys.html) - Use Everyday Items to Make Toys
 * [PaperToys](https://www.papertoys.com/) - Printable Paper Toys
 * [Fold N Fly](https://www.foldnfly.com/) - Paper Airplane Guides
-* [TwistyPuzzles](https://twistypuzzles.com/) or [HyperCubing](https://hypercubing.xyz/) - Twisty Puzzle Wikis
 * [Game a-b-street](https://a-b-street.github.io/docs/) - Traffic Simulation
 * [John Conway’s Game of Life](https://playgameoflife.com/) - Cellular Automaton Game / [Patterns](https://conwaylife.appspot.com/library/) / [Video](https://youtu.be/CgOcEZinQ2I), [2](https://youtu.be/R9Plq-D1gEk)
 * [Moral Machine](https://www.moralmachine.net/) - Decision-Making AIs

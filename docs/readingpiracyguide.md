@@ -246,7 +246,7 @@
 * ⭐ **[Foxit](https://www.foxit.com/pdf-reader/)** - PDF Reader / All Platforms / [Pro](https://rentry.co/FMHYBase64#foxit) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
 * ⭐ **[Koodo](https://www.koodoreader.com/)** - Ebook Reader / Windows, Mac, Linux / [GitHub](https://github.com/koodo-reader/koodo-reader)
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - Ebook & PDF Reader / Windows
-* ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / Windows
+* ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / Windows, Mac, Linux
 * ⭐ **[EinkBro](https://github.com/plateaukao/einkbro)** - E-Ink Browser
 * [ComparisonTabl.es](https://comparisontabl.es/) - Compare E-Readers
 * [Readest](https://readest.com/) - Ebook Reader / All Platforms / [GitHub](https://github.com/readest/readest)
@@ -361,7 +361,7 @@
 
 ## ▷ Audiobook Tools
 
-*  [Audiblez](https://github.com/santinic/audiblez), [Ebook2Audiobook](https://hub.docker.com/r/athomasson2/ebook2audiobook), [ElevenReader](https://elevenreader.io/) or [ReadWise](https://readwise.io/read) (reset trial) - Book to Audiobook Converters
+* [Audiblez](https://github.com/santinic/audiblez), [Ebook2Audiobook](https://hub.docker.com/r/athomasson2/ebook2audiobook), [ElevenReader](https://elevenreader.io/) or [ReadWise](https://readwise.io/read) (reset trial) - Book to Audiobook Converters
 * [AudioBookConverter](https://github.com/yermak/AudioBookConverter) - Audiobook Format Converter
 * [Audible Tools](https://audible-tools.kamsker.at/), [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) or [Libation](https://getlibation.com/) - Audible DRM Remover / Manager
 * [AudiobookShelf](https://www.audiobookshelf.org/) / [GitHub](https://github.com/advplyr/audiobookshelf-app) or [BookSonic](https://booksonic.org/) - Self-Hosted Audiobook Servers
@@ -480,7 +480,6 @@
 * [Wuxia.click](https://wuxia.click/)
 * [Ocean of EPUB](https://oceanofepub.net/) / Allows Downloads
 * [Novel Bin](https://novelbin.com/), [2](https://novelbin.me/)
-* [NobleMTL](https://noblemtl.com/)
 * [ReadNovelFull](https://readnovelfull.com)
 * [FreeWebNovel](https://freewebnovel.com/)
 * [Translated Light Novels](https://rentry.co/FMHYBase64#translated-light-novels) / Allows Downloads
@@ -595,6 +594,7 @@
 * [eBookRoom](https://t.me/eBookRoom)
 * [BookGoldMine](https://www.bookgoldmine.com/)
 * [SuperKuh](http://erewhon.superkuh.com/library/)
+* [⁠InfoBooks](https://www.infobooks.org/)
 * [Non-Fiction](https://vk.com/non_fic)
 * [FreePLRDownloads](https://freeplrdownloads.com/)
 * [E-Books Directory](https://www.e-booksdirectory.com/)

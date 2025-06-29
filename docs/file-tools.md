@@ -12,6 +12,7 @@
 * ⭐ **[Phockup](https://github.com/ivandokov/phockup)** - Organize Photo / Video Files by Date
 * [UnLock IT](https://emcosoftware.com/unlock-it/download) or [Lock Hunter](https://lockhunter.com/) - File Unlocker / Deleter
 * [Magika](https://github.com/google/magika) - AI File Content Type Detector
+* [MediaInfo](https://mediaarea.net/en/MediaInfo) - Media File Analysis / [Online](https://mediaarea.net/MediaInfoOnline)
 * [Icaros](https://github.com/Xanashi/Icaros) - Add Explorer Thumbnails to any Video Format
 * [Tagging for Windows](https://tagging.connectpaste.com/) - Tag-Based File System
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) or [hfs](https://rejetto.com/hfs/) / [2](https://github.com/rejetto/hfs) - HTTP File Systems
@@ -24,7 +25,7 @@
 * [Attribute Changer](https://www.petges.lu/) - Edit File & Folder Properties
 * [TagSpaces](https://www.tagspaces.org/) - Add Tags to Files and Folders
 * [SKTimeStamp](https://tools.stefankueng.com/SKTimeStamp.html) - Change File Created / Modified Time
-* [ExtractMetadata](https://www.extractmetadata.com/) or [Metadata2Go](https://www.metadata2go.com/) - Metadata Viewers / Editors
+* [ExtractMetadata](https://www.extractmetadata.com/), [⁠FilesMD](https://www.filesmd.com/) or [Metadata2Go](https://www.metadata2go.com/) - Metadata Viewers / Editors
 * [CUETools](http://cue.tools/wiki/CUETools) - Manipulate .cue Files / [GitHub](https://github.com/gchudov/cuetools.net/)
 
 ***
@@ -50,7 +51,7 @@
 
 * 🌐 **[SuperCompression](https://supercompression.org/)** - File Compression Resources
 * ⭐ **[NanaZip](https://github.com/M2Team/NanaZip)** or **[7-Zip](https://www.7-zip.org/)** - File Archiver
-* ⭐ **[PeaZip](https://peazip.github.io/)** - Cross-Platform File Archiver
+* ⭐ **[PeaZip](https://peazip.github.io/)** - Cross-Platform File Archiver / [GitHub](https://github.com/peazip/PeaZip/)
 * ⭐ **[CompactGUI](https://github.com/IridiumIO/CompactGUI)** - Transparent Compression
 * [Fileforums](https://fileforums.com/) or [Encode](https://encode.su/) - Data Compression Forums
 * [TurboBench](https://github.com/powturbo/TurboBench) - Compression Benchmark
@@ -85,26 +86,20 @@
 ## ▷ File Managers
 
 * ⭐ **[Files](https://files.community/)** - Customizable File Manager / Use Classic Installer / [Discord](https://discord.gg/files)
-* ⭐ **[Directory Opus](https://rentry.co/FMHYBase64#directory-opus)** - Windows File Manager
+* ⭐ **[Directory Opus](https://rentry.co/FMHYBase64#directory-opus)** - File Manager
 * [DoubleCMD](https://github.com/doublecmd/doublecmd) or [muCommander](https://www.mucommander.com/) - Cross-Platform File Managers
-* [Sigma](https://sigma-file-manager.vercel.app) - Modern File Manager / Windows, Linux / [GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
-* [ChromaFiler](https://chroma.zone/chromafiler/) - Column-Based Windows File Manager
+* [Sigma](https://sigma-file-manager.vercel.app) - Modern File Manager / [GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
+* [ChromaFiler](https://chroma.zone/chromafiler/) - Column-Based File Manager
 * [Yazi](https://yazi-rs.github.io/) - Terminal File Manager / [Plugins](https://github.com/sachinsenal0x64/awesome-yazi) / [GitHub](https://github.com/sxyazi/yazi)
 * [One Commander](https://www.onecommander.com/) - File Manager
 * [Free Commander](https://freecommander.com/) - File Manager
 * [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir) - File Manager
-* [Quick Access Popup](https://www.quickaccesspopup.com/) - File Manager
-* [FileExplorer](https://github.com/omeryanar/FileExplorer) - File Manager
-* [FileStash](https://www.filestash.app/) - File Manager / [GitHub](https://github.com/mickael-kerjean/filestash)
 * [Explorer++](https://explorerplusplus.com/) - Lightweight Windows File Manager
-* [Far Manager](https://www.farmanager.com/) - Windows File / Archive Manager
-* [Total Commander](https://www.ghisler.com/) - Shareware Windows File Manager
-* [Organize](http://organize.readthedocs.io) - Automated File Manager
-* [TrayDir](https://github.com/SamuelSVD/TrayDir) - System Tray File Manager
-* [TablacusExplorer](https://tablacus.github.io/explorer_en.html), [QTTabBar](https://github.com/indiff/qttabbar) or [Multi Commander](https://multicommander.com/) - Tab File Managers
+* [Far Manager](https://www.farmanager.com/) - File / Archive Manager
+* [Total Commander](https://www.ghisler.com/) - Shareware File Manager
+* [TablacusExplorer](https://tablacus.github.io/explorer_en.html) or [Multi Commander](https://multicommander.com/) - Tab File Managers
 * [Vifm](https://vifm.info/) - Vim-Based File Manager
 * [superfile](https://superfile.netlify.app/) - Terminal File Manager / [GitHub](https://github.com/yorukot/superfile)
-* [WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
 
 ***
 
@@ -147,7 +142,7 @@
 ## ▷ File Backup
 
 * ⭐ **[Kopia](https://kopia.io/)** - Encrypted File Backup / [GitHub](https://github.com/kopia/kopia/)
-* ⭐ **[Rescuezilla](https://rescuezilla.com/)** or [CloneZilla](https://clonezilla.org/) - Disk Image Backup
+* ⭐ **[Rescuezilla](https://rescuezilla.com/)** / [GitHub](https://github.com/rescuezilla/rescuezilla) or [CloneZilla](https://clonezilla.org/) - Disk Image Backup
 * [FolderClone](https://www.folderclone.com/) or [Echosync](https://www.luminescence-software.org/en/echosync/about/) - Folder Clone / Backup
 * [BackupPC](https://backuppc.github.io/backuppc/) - Networked File Backup
 * [TeraCopy](https://www.codesector.com/teracopy) - Copy Files Quickly / More Securely
@@ -187,7 +182,6 @@
 * ⭐ **[Advanced Renamer](https://www.advancedrenamer.com/)** or [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) - Bulk Renamers
 * [FoliCon](https://dineshsolanki.github.io/FoliCon/) - Automatic Custom Media Icons / Folders / [GitHub](https://github.com/DineshSolanki/FoliCon)
 * [MediaMonkey](https://www.mediamonkey.com/) - Media Organizer
-* [MediaInfo](https://mediaarea.net/en/MediaInfo) - Media File Analysis / [Online](https://mediaarea.net/MediaInfoOnline)
 * [tinyMediaManager](https://www.tinymediamanager.org/) or [MediaElch](https://www.kvibes.de/mediaelch/) - Media Collection Managers
 * [FileBot](https://www.filebot.net/) - Media File Renaming
 * [TVRename](https://www.tvrename.com/) - TV File Data Automation
@@ -267,9 +261,6 @@
 * [OnionShare](https://onionshare.org/) - Share Files Over Tor Network
 * [FileZilla](https://filezilla-project.org/download.php?show_all=1) - FTP Client / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#filezilla)
 * [WinSCP](https://winscp.net/eng/index.php) - FTP Client
-* [Wing FTP](https://www.wftpserver.com/) - FTP Client
-* [Xlight](https://xlightftpd.com/) - FTP Client
-* [IPFS](https://ipfs.tech/) or [kubo](https://github.com/ipfs/kubo) - P2P Hypermedia Protocol
 * IPFS Tools - [Resources](https://awesome.ipfs.tech/), [2](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
 
 ***
@@ -284,19 +275,7 @@
 * [ToffeeShare](https://toffeeshare.com/) / [GitHub](https://github.com/ToffeeShare)
 * [new.space](https://new.space/)
 * [FilePizza](https://file.pizza/) / [GitHub](https://github.com/kern/filepizza)
-* [Blaze](https://blaze.vercel.app/) / [GitHub](https://github.com/blenderskool/blaze)
-* [TransferNow](https://www.transfernow.net/en)
-* [Horizon Send](https://send.hrzn.cool/) / [GitHub](https://github.com/httpjamesm/horizon-send)
-* [Salad Room](https://saladroom.net/)
-* [drop.lol](https://drop.lol/) / [GitHub](https://github.com/mat-sz/filedrop)
-* [sendfilesencrypted.com](https://sendfilesencrypted.com/)
-* [LIGHTNING SHARE](https://lightning-share.vercel.app/) / [GitHub](https://github.com/chroline/lightning-share)
-* [rDrop](https://rdrop.link/)
-* [WebDrop](https://webdrop.space/) / [GitHub](https://github.com/subins2000/WebDrop)
-* [MyAirBridge.com](https://www.myairbridge.com/)
-* [Sprend](https://sprend.com/)
 * [WebWormhole](https://webwormhole.io/) / [GitHub](https://github.com/saljam/webwormhole)
-* [FileLove](https://file.love/) / [GitHub](https://github.com/midzer/filelove/)
 
 ***
 
@@ -413,6 +392,7 @@
 * [AList](https://alist.nn.ci) - Cloud Storage Manager
 * [MultCloud](https://www.multcloud.com/) - Cloud Storage Manager
 * [xpipe](https://xpipe.io) - Remote File Manager
+* [FileStash](https://www.filestash.app/) - File Manager / [GitHub](https://github.com/mickael-kerjean/filestash)
 
 ***
 

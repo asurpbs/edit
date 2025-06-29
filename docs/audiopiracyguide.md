@@ -34,7 +34,7 @@
 * ⭐ **[DAB Music Player](https://dab.yeet.su/)** - Browser Music / Uses Qobuz / Lossless
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs
-* [Spotify Web Client](https://open.spotify.com/) - Browser Music
+* [Spotify Web Player](https://open.spotify.com/) / [Enhanced UI](https://senpaihunters.github.io/SpotOn/) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics), [2](https://greasyfork.org/en/scripts/377439) - Browser Music
 * [Last.fm](https://www.last.fm/) - Browser Music / [Tools](https://fmhy.net/audiopiracyguide#last-fm-tools)
 * [FreeListenOnline](https://freelistenonline.com/) - Browser Music
 * [Audiomack](https://audiomack.com/) - Browser Music
@@ -61,7 +61,7 @@
 * [Classical Music Only](https://classicalmusiconly.com/) or [musopen](https://musopen.org/music/) - Classical Music
 * [Bandcamp](https://bandcamp.com/discover/free-music) - Free Music Release Platform
 * [Mirlo](https://mirlo.space/) - Free Music Release Platform
-* [Newground Audio](https://www.newgrounds.com/audio) - User-Made Electronic Music
+* [Newgrounds Audio](https://www.newgrounds.com/audio) - User-Made Electronic Music
 * [Audius](https://audius.co/) - User Made Music
 * [AudionautiX](https://audionautix.com/) - Mood-Based Streaming
 * [Youtaite](https://www.youtaite.com/) - Youtaite Resources / Songs
@@ -74,7 +74,6 @@
 * [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
 * [Measuring Polyphony](https://measuringpolyphony.org/) - Digital Encoding of Late Medieval Music
 * [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - East African Recordings
-* [Tabletop Audio](https://tabletopaudio.com/) - Ambient Downloadable/Streamable Audio for Tabletop Games
 * [Openwhyd](https://openwhyd.org/) - Music Sharing Community / [Chrome](https://chromewebstore.google.com/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk)
 
 ***
@@ -85,8 +84,6 @@
 * ⭐ **[bt.etree](https://bt.etree.org/)** - Concert Recordings / Torrents
 * ⭐ **[hate5six](https://hate5six.com/)** - Concert Recordings
 * ⭐ **[BBC Radio 1 Essential Mix](https://rentry.co/FMHYBase64#bbc-essential)** - BBC Essential Mix / [Discovery Guide](https://rentry.co/musicdiscovery#bbc-radio-1-essential-mix)
-
-
 * ⭐ **[MiroPPB](https://miroppb.com/)** / [DL Script](https://pastebin.com/raw/GZ7AvbwV) or [ASOTArchive](http://www.asotarchive.org/) - A State of Trance Archives / DJ Mixes
 * [JamBase](https://www.jambase.com/videos) - Concert Recordings
 * [Relisten](https://relisten.net/) - Concert Recordings / [GitHub](https://github.com/relistennet)
@@ -283,7 +280,6 @@
 
 * ⭐ **[Spotify Desktop](https://www.spotify.com/us/download/)** - Official Client / Use Adblockers Below / [Installer Archive](https://loadspot.pages.dev/)
 * [Lofi Rocks](https://www.lofi.rocks/) - Tiny / Minimal Client / [GitHub](https://github.com/dvx/lofi)
-* [Spotify Web Client](https://open.spotify.com/) / [Enhanced UI](https://senpaihunters.github.io/SpotOn/) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics), [2](https://greasyfork.org/en/scripts/377439)
 
 ***
 
@@ -545,19 +541,19 @@
 
 * ⭐ **[NCS](https://ncs.io/)** - Copyright Free Music
 * ⭐ **[YouTube Audio Library](https://www.youtube.com/audiolibrary)** - Music / Sound Effects
-* [UppBeat](https://uppbeat.io/) - Music for Creators
-* [BenSound](https://www.bensound.com/) - Popular Library
+* [UppBeat](https://uppbeat.io/) - Music for Creators / Freemium
+* [BenSound](https://www.bensound.com/) - Popular Library / Freemium
 * [Unminus](https://www.unminus.com/) - Professional Tracks
-* [FreePD](https://freepd.com/) - Public Domain Music
+* [FreePD](https://freepd.com/) - Public Domain Music / CC0 License
 * [Free Music Archive](https://freemusicarchive.org/) - Curated Library
-* [free-stock-music](https://www.free-stock-music.com/) - Stock Music Library
+* [free-stock-music](https://www.free-stock-music.com/) - Stock Music Library / CC0 License
 * [Pixabay Music](https://pixabay.com/music/) - Stock Music Library
 * [Fugue](https://icons8.com/music) - Music for Creators
-* [chosic](https://www.chosic.com/free-music/all/) - Royalty-Free Library
+* [chosic](https://www.chosic.com/free-music/all/) - Royalty-Free Library / CC0 License
 * [tunetank](https://tunetank.com/) - Music for Videos
 * [purple-planet](https://www.purple-planet.com/) - Duo Composers
 * [freemusicpublicdomain](https://www.freemusicpublicdomain.com/) - Public Domain Tracks
-* [Incompetech Music](https://incompetech.com/music/royalty-free/music.html) - Composer Library
+* [Incompetech Music](https://incompetech.com/music/royalty-free/music.html) - Composer Library / CC-BY License
 * [joshwoodward](https://www.joshwoodward.com/) - Single Artist Collection
 * [Sampld](https://sampld.app/) - Sample Finder
 
@@ -587,6 +583,7 @@
 * [VGMPF](https://www.vgmpf.com/Wiki/index.php) - Retro Game Soundtracks / MP3
 * [VGMRips](https://vgmrips.net/packs/) - Retro Game Music Rips / VGM
 * [Zophar's](https://www.zophar.net/music) - Retro Game Music Rips / VGM
+* [HCS Forum](https://rentry.co/FMHYBase64#hcs-forum) - Game Soundtracks
 * [GameOST](https://gameost.net/) - Game Soundtracks / MP3
 * [exotica](https://www.exotica.org.uk/) - Amiga Games Soundtracks
 * [VIP VGM](https://www.vipvgm.net/) - Game Music Radio
@@ -963,6 +960,7 @@
 * [AirWindows](https://www.airwindows.com/) - Plugins / [Consolidated](https://www.airwindows.com/consolidated/)
 * [Krush](https://www.tritik.com/product/krush/) - Bitcrusher (Deep Fry) Plugin
 * [samplv1](https://samplv1.sourceforge.io/) - Voice Synth
+* [Oi, Grandad!](https://github.com/publicsamples/Oi-Grandad) - 4 Voice Granular Synth
 * [Chowdhury DSP](https://chowdsp.com/products.html) - Audio Signal Processing
 * [/r/SynthRecipes](https://www.reddit.com/r/synthrecipes/) - Synth Request Subreddit
 

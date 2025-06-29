@@ -19,7 +19,7 @@
 * ⭐ **[SuperF4](https://stefansundin.github.io/superf4/)** or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
 * ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)**, [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) or [GeekUninstaller](https://geekuninstaller.com/) - Bulk Uninstallation Tools
 * [VCRedist](https://github.com/abbodi1406/vcredist) - AIO Repack for Microsoft Visual C++ Redists
-* [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) or [Pastas](https://rentry.org/pastas#guides) - Windows Guides
+* [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide), [Microsoft Community](https://msft.chat/) / [Discord](https://discord.com/invite/microsoft) or [Pastas](https://rentry.org/pastas#guides) - Windows Guides
 * [NanaRun](https://github.com/M2Team/NanaRun) - System Admin Tools
 * [BleachBit](https://www.bleachbit.org/) - Clean System Storage
 * [PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor
@@ -58,6 +58,8 @@
 * [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/), [Nilesoft Shell](https://nilesoft.org/) or [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager/blob/master/README-en.md)
 * [RCWM](https://github.com/GChuf/RCWM) - Tweaked Context Menus
 * [Explorer Tab Utility](https://github.com/w4po/ExplorerTabUtility) - Tweaked File Explorer
+* [Quick Access Popup](https://www.quickaccesspopup.com/) - File Manager
+* [TrayDir](https://github.com/SamuelSVD/TrayDir) - System Tray File Manager
 * [Spencer](https://www.the-sz.com/products/spencer/) - Classic Start Menu
 * [Taskbar Tweaker](https://ramensoftware.com/7-taskbar-tweaker) - Taskbar Advanced Features
 * [RBTray](https://github.com/benbuck/rbtray) - Minimize any App to Tray
@@ -94,6 +96,7 @@
 * [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install)
 * [sikulix](http://sikulix.com/)
 * [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy)
+* [Organize](http://organize.readthedocs.io) - Automated File Manager
 
 ***
 
@@ -404,6 +407,8 @@
 * [HackBGRT](https://github.com/Metabolix/HackBGRT) - Boot Logo Changer
 * [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) or [Dynamic Theme](https://apps.microsoft.com/detail/9nblggh1zbkw) - Auto Change Wallpaper
 * [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - File Explorer Effects
+* [QTTabBar](https://github.com/indiff/qttabbar) - Windows File Explorer Enhancement
+* [WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
 * [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Title Bar Effects
 * [ModernFlyouts](https://modernflyouts-community.github.io) - Modern Flyouts / [GitHub](https://github.com/ModernFlyouts-Community/ModernFlyouts)
 * [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - Alt Windows Shells

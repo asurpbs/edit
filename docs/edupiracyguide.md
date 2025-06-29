@@ -658,10 +658,10 @@
 * ⭐ **[Khan Academy](https://www.khanacademy.org/science/health-and-medicine)** - Physiology / Pathology Overviews
 * ⭐ **[Afratafreeh](https://afratafreeh.com/category/brands/)** - Medical Video Courses and Books
 * ⭐ **[Radiopaedia](https://radiopaedia.org/)**, [Radiology Assistant](https://radiologyassistant.nl/) or [Radiology Education](https://www.radiologyeducation.com/) - Radiology Resources
+* ⭐ **[⁠Stop the Bleed](https://www.stopthebleed.org/)** - Free First Aid Video Courses / Resources 
 * [MDCalc](https://www.mdcalc.com/), [MSD Manuals](https://www.msdmanuals.com/) or [Epocrates](https://www.epocrates.com/) - Medical Reference Sites / Tools
 * [Geeky Medics](https://geekymedics.com/), [UC San Diego CG](https://meded.ucsd.edu/clinicalmed/introduction.html) or [Easy Auscultation](https://www.easyauscultation.com/) - Clinical Guides
 * [Glass AI](https://glass.health/ai) - Medical Diagnoses' Training AI
-* [⁠Stop the Bleed](https://www.stopthebleed.org/) - Free First Aid Video Courses / Resources 
 * [Get Body Smart](https://www.getbodysmart.com/) or [University of Michigan Anatomy](https://sites.google.com/a/umich.edu/bluelink/curricula) - Anatomy Guides
 * [Zygote Body](https://www.zygotebody.com/), [AnatomyLearning](https://anatomylearning.com/) or [Biodigital](https://human.biodigital.com/index.html) - 3D Human Anatomical Models
 * [Inner Body](https://www.innerbody.com/htm/body.html) - Anatomy Atlas (2D&3D)
@@ -908,26 +908,27 @@
 
 ## ▷ Rubiks Cube
 
-* ↪️ **[Cube Simulators / Solvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_rubiks_cube)**
+* 🌐 **[Cubing.net](https://www.cubing.net/)** - Cubing Tools
+* ↪️ **[Cube Simulators / Solvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25B7_rubiks_cube)**
 * ⭐ **[J Perm](https://jperm.net/)**, [CubeSkills](https://www.cubeskills.com/), [RubiksTrainer](https://rubikstrainer.com/) or [Easiest Solve](https://easiestsolve.com/) - Cubing Tutorials / Practice Resources
 * ⭐ **[CubeDesk](https://cubedesk.io/)** or **[csTimer](https://cstimer.net/)** - Feature-Rich Cubing Timers
 * ⭐ **[SpeedCubeDB](https://speedcubedb.com/)** - Algorithm Database
 * [SpeedSolving](https://www.speedsolving.com/) / [Wiki](https://www.speedsolving.com/wiki) or [Ruwix](https://ruwix.com/) - Cubing Wiki / Community Forum
 * [World Cube Association](https://www.worldcubeassociation.org/) - Cubing Competitions & Records
+* [Cubing Time Standard](https://cubingtimestandard.com/) - Track Your Performance Across WCA Events
 * [alg.cubing.net](https://alg.cubing.net/), [CubeDB](https://cubedb.net/), or [Tao Yu Trainer](https://tao-yu.github.io/Alg-Trainer/) - Algorithm Animators / Visualizers
 * [F2L Trainer](http://expertcuber.by/f2ltrainer.php) or [ZBLL Trainer](http://bestsiteever.ru/zbll/) - Algorithm-Specific Trainers
+* [Hypercubing](https://hypercubing.xyz/) - Hypercubing Wiki
 * [Speedcube.app](https://speedcube.app/) - Cubing Timer (Mobile-Friendly)
 * [SolveTheCube](https://solvethecube.com/timer) - Cubing Timer
 * [YoTimer](https://www.yotimer.com/) - Cubing Timer
 * [qqTimer](https://www.qqtimer.net/) - Cubing Timer
-* [FT Cube](https://shuantsu.github.io/ft_cube/) - Cubing Sim + Net Gen
-* [⁠Mapleaves](https://filipeteixeira.com.br/mapleaves/) - Maple Leaf Cube Sim 
 
 ***
 
 ## ▷ Chess
 
-* 🌐 **[Awesome Chess](https://github.com/hkirat/awesome-chess)**, [Chess Domi](https://t.me/Chess_Domi) or [Chess Resources](https://redd.it/u43nrc) - Chess Resources
+* 🌐 **[Awesome Chess](https://github.com/hkirat/awesome-chess)**, [⁠TheChessDirectory](https://thechessdirectory.com/), [Chess Domi](https://t.me/Chess_Domi) or [Chess Resources](https://redd.it/u43nrc) - Chess Resources
 * 🌐 **[/m/Chess](https://www.reddit.com/user/korfor/m/chess/)** or [/r/Chess](https://reddit.com/r/chess) - Chess Subreddits
 * 🌐 **[/r/Chess Books](https://reddit.com/r/chess/wiki/books)** - Recommended Chess Books
 * ⭐ **[Scid vs. PC](https://scidvspc.sourceforge.net/)** - Learn / Practice Chess
@@ -951,6 +952,22 @@
 * [2700chess](https://2700chess.com/) - Live Chess Player Ratings
 * [Bill Wall's Chess Page](http://billwall.phpwebhosting.com/) or [365Chess](https://www.365chess.com/) - Chess History / Lessons
 * [ChessVariants](https://www.chessvariants.com/index/favorites.php) - 1000+ Chess Variants + Guides
+
+***
+
+## ▷ Dungeons & Dragons
+
+* ↪️ **[D&D Building Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)** - Map Editors, Campaign Managers, Worldbuilding, etc.
+* ⭐ **[D&D Compendium](https://www.dnd-compendium.com/)** or [RPGBOT](https://rpgbot.net/) - D&D Tools & Learning Resources
+* ⭐ **[5etools](https://5e.tools/)** or [The Acaeum](https://www.acaeum.com/) - 5E Rules & Content References
+* ⭐ **[D&D Beyond](https://www.dndbeyond.com/)** - Official Toolset for 5E
+* ⭐ **[Kobold+ Fight Club](https://koboldplus.club/)** - Encounter Builder & Balancer
+* [Avrae](https://avrae.io/) - D&D Automation Discord Bot
+* [DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books/) or [D&D 5e BR](https://dnd5ed.github.io) / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) - D&D 4E/5E Books
+* [Cruinne's D&D Reading Room](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html) - D&D Worldbuilding Checklist
+* [Tetra-cube](https://tetra-cube.com/dnd/dnd-statblock.html) - Monster Statblock Generator
+* [NaturalCrit](https://naturalcrit.com/) or [GM Binder](https://www.gmbinder.com/) - 5E Homebrew Document Editors
+* [D&D Wiki](https://www.dandwiki.com/) - D&D Homebrew Wiki
 
 ***
 
@@ -978,6 +995,7 @@
 * [Checki0](https://checkio.org/) - Code Learning Games
 * [Scrimba](https://scrimba.com/) - Interactive Programming Courses
 * [CloudSkillsBoost](https://www.cloudskillsboost.google/paths) - Programming Courses
+* [⁠MOOC.fi](https://www.mooc.fi/en/) - Programming Courses 
 * [EggHead](https://egghead.io/) - Programming Courses
 * [TechSchool](https://techschool.dev/en) - Programming Courses / [Discord](https://discord.com/invite/C4abRX5skH)
 * [Scratch](https://scratch.mit.edu/) - Beginner Programming Learning
@@ -1414,6 +1432,7 @@
 * [Omniglot](https://www.omniglot.com/index.htm) - Writing Systems & Languages Encyclopedia
 * [Archivy](https://github.com/archivy/archivy/) - Self-Hosted Wiki
 * [Simple Wiki](https://simple.wikipedia.org/wiki/Main_Page) - Simplified Wikipedia / [Auto-Redirect](https://rentry.co/simplewikifirefox)
+* [IntegralGuide](https://integralguide.com/) - Well-Being Encyclopedia
 * [Britannica](https://www.britannica.com/)
 * [EverybodyWiki](https://en.everybodywiki.com/)
 * [Encyclopedia](https://www.encyclopedia.com/)
